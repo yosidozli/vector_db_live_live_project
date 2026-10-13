@@ -1,0 +1,8 @@
+qdrant-client
+pymupdf
+pydantic
+langchain
+langchain_community
+langchain_experimental
+langchain-huggingface
+sentence-transformers
